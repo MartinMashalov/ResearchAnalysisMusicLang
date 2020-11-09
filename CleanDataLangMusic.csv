@@ -1,0 +1,22 @@
+,Adult Informed consent or Minor Consent,MusicalIQ,Beat Alignment Score,Melodic Descrimination Score,Mistuning Perception Score,Country of Residence,Age,Gender,Grade,Father Education,Mother Education,English First Language,"If not English, first",Language Home Yes/No,Languages at Home,Languages at Home Number,Perfect Pitch,Instrument,Length of Practice,Formal Music Edu
+0,"Yes, I consent",95.0,109.0,88.0,87.0,United States,15.0,Male,11,Bachelor’s degree,Master’s degree,1,None,0,None,1,0,0,None,1
+1,"Yes, I consent",71.0,75.0,78.0,60.0,United States,15.0,Male,11,Bachelor’s degree,Master’s degree,0,Italian,1,Italian,2,-1,-1,2 years,1
+2,"Yes, I consent",107.0,109.0,108.0,103.0,United States,16.0,Female,11,Associate degree,Associate degree,1,None,0,None,1,0,1,1 year or so,1
+3,"Yes, I consent",109.0,104.0,101.0,132.0,United States,15.0,Other,11,Bachelor’s degree,Bachelor’s degree,1,None,0,None,1,0,-1,None,1
+4,"Yes, I consent",117.0,94.0,125.0,133.0,Norway,20.0,Female,Over 12,Bachelor’s degree,Professional degree,0,Norwegian,1,Norwegian (and english) ,2,0,1,12 years,1
+5,"Yes, I consent",107.0,111.0,105.0,104.0,United States,16.0,Female,11,"High school graduate, diploma or the equivalent",Master’s degree,1,None,1,French,1,0,-1,None,1
+6,"Yes, I consent",100.0,86.0,112.0,102.0,United States,16.0,Female,11,Bachelor’s degree,Bachelor’s degree,1,None,0,None,1,0,1,6 years,1
+7,"Yes, I consent",112.0,111.0,107.0,116.0,Australia,16.0,Male,11,Master’s degree,Bachelor’s degree,1,None,1,"Cantonese, Chinese",3,1,1,13 years,1
+8,"Yes, I consent",89.0,86.0,75.0,106.0,United States,16.0,Female,11,Associate degree,Master’s degree,1,None,0,None,1,0,0,None,1
+9,"Yes, I consent",102.0,95.0,82.0,128.0,United States,15.0,Female,11,Bachelor’s degree,Master’s degree,1,None,0,None,1,0,1,12 years,1
+10,"Yes, I consent",97.0,91.0,103.0,95.0,United States,16.0,Female,11,Doctorate degree,Doctorate degree,1,None,1,German,2,0,1,9 years,1
+11,"Yes, I consent",108.0,97.0,108.0,109.0,United States,15.0,Male,9,Bachelor’s degree,Master’s degree,1,None,0,None,1,-1,1,6 years,1
+12,"Yes, I consent",96.0,89.0,91.0,108.0,United States,13.0,Female,8,Bachelor’s degree,Bachelor’s degree,1,None,0,None,1,0,-1,5 years,1
+13,"Yes, I consent",94.0,85.0,92.0,106.0,United States,16.0,Female,11,Bachelor’s degree,Master’s degree,1,None,1,Hindi,3,0,1,7 years,1
+14,"Yes, I consent",102.0,99.0,97.0,111.0,United States,15.0,Female,10,Master’s degree,Master’s degree,0,Spanish,1,Spanish,2,-1,1,7 years,1
+15,"Yes, I consent",110.0,132.0,94.0,103.0,United States,16.0,Female,11,Master’s degree,Bachelor’s degree,1,None,0,None,1,0,-1,None,1
+16,"Yes, I consent",90.0,91.0,74.0,104.0,United States,13.0,Female,8,Bachelor’s degree,"High school graduate, diploma or the equivalent",1,None,0,None,3,0,1,Around 3 years.,1
+17,"Yes, I consent",100.0,100.0,100.0,100.0,Australia,14.0,Female,9,Master’s degree,Master’s degree,1,None,0,None,2,-1,1,"Guitar 4 years, Piano 7 years, Vocal 7 years",1
+18,"Yes, I consent",96.0,97.0,95.0,96.0,United States,15.0,Female,9,"Some high school, no diploma",Bachelor’s degree,1,None,0,None,2,-1,0,None,1
+19,"Yes, I consent",103.0,86.0,112.0,110.0,United States,17.0,Female,12,"High school graduate, diploma or the equivalent","Some college credit, no degree",1,None,0,None,1,-1,-1,None,1
+20,"Yes, I consent",115.0,122.0,119.0,103.0,United States,17.0,Male,12,Bachelor’s degree,Bachelor’s degree,1,None,0,None,1,0,1,5 years,1
